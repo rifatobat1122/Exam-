@@ -1,0 +1,147 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Zen Old Mincho', serif;
+}
+/* Navbar */
+
+.flex h1{
+color: black;
+font-size: 29px;
+}
+.list{
+    color: black;
+    font-size: 20px;
+}
+.list a{
+    text-decoration: none;
+
+}
+.list a:hover{
+    color: #D8B4B6;
+}
+.Navbar{
+    background-color: #ba797d;
+
+}
+.md:ml-auto{
+    color: blanchedalmond;
+}
+
+/* Hero */
+
+.Hero{
+    background-color: #D8B4B6;
+}
+.lg:max-w-lg img{
+    width: 100%;
+    height: 50rem;
+}
+.para p{
+color: black;
+font-size: 19px;
+padding-left: 1rem;
+}
+/* section-1 */
+
+.section-1{
+    background-color: #BA797D;
+}
+.section-1 h1{
+    text-align: center;
+    font-size: 45px;
+    padding-top: 3.5rem;
+}
+/* section */
+.section{
+    background-color: rgb(247, 227, 227);
+}
+.section h1{
+    text-align: center;
+    font-size: 45px;
+    padding-top: 3.5rem;
+}
+/* Section-a */
+/* .Section-a{
+    background-color: #D8B4B6;
+} */
+.Footer{
+    background-color: #F7E3E3;
+    /* color: black; */
+}
+.head h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 3.5rem;
+    color: #BA797D;
+}
+.section-2{
+    background-color: #F7E3E3;
+}
+/* coding */
+
+.col-lg-4{
+    width: 30%;
+    
+}
+
+.col-lg-4 p{
+    /* margin-left: 10rem; */
+    font-size: 22px;
+    padding-top: 15px;
+    margin-bottom: 2rem;
+    color: #BA797D;
+}
+.coding h1{
+text-align: center;
+margin-top: 3rem;
+font-size: 50px;
+color:#BA797D ;
+margin-bottom: 5rem;
+}
+/* .coding{
+    text-align: center;
+} */
+
+.Contact{
+    background-color: #F6F6F6;
+}
+.mission{
+    background-color: #F6F6F6;
+}
+.detail{
+    background-color: #F6F6F6;
+}
+.btn-1{
+    border: 1px solid #c79b9e;
+    background-color:#BA797D ;
+    color: black;
+    height: 2.5rem;
+    width: 7rem;
+    margin-left: 1.5rem;
+    border-radius: 25px;
+}
+
+.first h1{
+margin-left: 1.5rem;
+font-size: 40px;
+margin-top: -2rem;
+margin-bottom: 3rem;
+}
+
+.team h1{
+    text-align: center;
+    font-size: 45px;
+    color: #BA797D;
+    padding-top: 4rem;
+}
+.team{
+    background-color: #F6F6F6;
+}
+/* .Team-details{
+    background-color: #F7E3E3;
+} */
+.team-member{
+    background-color: #F7E3E3;
+}
